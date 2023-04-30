@@ -1,1 +1,2 @@
 # Portfolio Projects For Dave Brixius (@coderDx)
+This repository contains samples of things that Dave Brixius has learned over the years. In addition to this README file, each project directory has its own README file, containing a description and instructions for each.
